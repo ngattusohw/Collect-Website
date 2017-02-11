@@ -1,28 +1,37 @@
-<header>
 
-	<h1 class="text-center"> Collect Software </h1>
+	<div id="wrapper">
 
-	<ul class="topnav">
-		<li class="dropdown show">
-			<a class="active dropdown-toggle" href="index.html" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
-			
-			<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-				<a href="#"> Hello </a>
-				<a href="#"> Test </a>
-			</div>
-		</li>
-		
-		<li class="dropdown">
-			<a href="pals.html" class ="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PALS</a>
-			<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-				<a href="#"> Hello </a>					
-				<a href="#"> Hello </a>					
-			</div>
-		</li>
+		<nav class="main-navbar fixed">
+			<ul class="topnav">
+			  <li class="link-dropdown">
+			  	<a href="index.php" class="active dropbtn">Home</a>
+			    <div class="dropdown-content">
+			      <a href="#">Link 1</a>
+			      <a href="#">Link 2</a>
+			      <a href="#">Link 3</a>
+			    </div>
+			  </li>
 
-		<li><a href="proj.html">Other Projects</a></li>
-		<li><a href="contact.html">Contact Us</a></li>
-		<li class="right"><a href="about.html">About</a></li>
-	</ul>
+			  <li>
+			  	<a href="pals.php" class="dropbtn">PALS</a>
+			  </li>
 
-</header>
+			  <li class="link-dropdown">
+			    <a href="proj.php" class="dropbtn">Other Projects</a>
+			    <div class="dropdown-content">
+			      <a href="#">Link 1</a>
+			      <a href="#">Link 2</a>
+			      <a href="#">Link 3</a>
+			    </div>
+			  </li>
+
+			  <li>
+			  	<a href="contact.php" class="dropbtn">Contact Us</a>
+			  </li>
+
+			  <li>
+			  	<a href="about.php" class="dropbtn">About</a>
+			  </li>
+			</ul>
+	    </nav>
+

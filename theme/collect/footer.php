@@ -7,18 +7,18 @@
 		<h3>Collect<span>Software</span></h3>
 
 		<p class="footer-links">
-			<a href="index.html">Home</a>
+			<a href="index.php">Home</a>
 			·
-			<a href="pals.html">PALS</a>
+			<a href="pals.php">PALS</a>
 			·
-			<a href="proj.html">Other Projects</a>
+			<a href="proj.php">Other Projects</a>
 			·
-			<a href="contact.html">Contact Us</a>
+			<a href="contact.php">Contact Us</a>
 			·
-			<a href="about.html">About</a>
+			<a href="about.php">About</a>
 		</p>
 
-		<p class="footer-company-name">Collect &copy; 2017</p>
+		<p class="footer-company-name">Collect Software &copy; 2017</p>
 	</div>
 
 	<div class="footer-center">
@@ -35,7 +35,7 @@
 
 		<div>
 			<i class="fa fa-envelope"></i>
-			<p><a href="mailto:support@company.com">support@company.com</a></p>
+			<p><a href="mailto:support@company.com">support@collectsoftware.org</a></p>
 		</div>
 
 	</div>
