@@ -3,6 +3,18 @@ body {
 }
 
 /*TEST */
+.navName{
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    padding-right: 10px;
+    color:  #ffffff;
+    font: normal 36px 'Cookie', cursive;
+}
+
+.navName span{
+    color:  #4CAF50;
+}
+
 #wrapper {
     width:100%;
     margin: 0 auto;
@@ -17,7 +29,7 @@ nav {
     background-color: #333;
     width: 100%;
 /*    margin-left: -10px;*/
-    line-height:45px;
+    line-height:50px;
     position: relative;
 }
 
@@ -58,8 +70,12 @@ nav.navbar{
   top: -0.5%;
 }
 
-nav.main-navbar.shrink {
-  line-height: 20px;
+nav.main-navbar.shrink{
+  line-height: 30px;
+}
+
+nav.main-navbar.shrink .navName{
+    font: normal 30px 'Cookie', cursive;
 }
 
 nav.main-navbar{
@@ -105,7 +121,7 @@ image {
 ul.topnav {
     list-style-type: none;
     margin: 0 auto;
-    width: 450px;
+    width: 100%;
     padding: 0;
     overflow: hidden;
     background-color: #333; 

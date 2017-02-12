@@ -3,6 +3,9 @@
 
 		<nav class="main-navbar fixed">
 			<ul class="topnav">
+			  <li>
+			  	<h3 class="navName"> Collect <span>Software</span> </h3>
+			  </li>
 			  <li class="link-dropdown">
 			  	<a href="index.php" class="active dropbtn">Home</a>
 			    <div class="dropdown-content">
