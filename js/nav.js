@@ -3,6 +3,18 @@ $(document).ready(function() {
         //Calculate the height of <header>
         //Use outerHeight() instead of height() if have padding
         var aboveHeight = $('header').outerHeight();
+        var wasClicked = false;
+
+        $("#menuButton").click(function(){
+            if(!wasClicked){
+                $(".navMobile").removeClass("nonMobile");
+                wasClicked = true;
+            }else{
+                $(".navMobile").addClass("nonMobile");
+                wasClicked = false;
+            }
+            
+        });
  
 	//when scroll
         $(window).scroll(function(){
@@ -29,5 +41,8 @@ $(document).ready(function() {
                     $('nav').removeClass('shrink');
                }
         });
+
 });
+
+
 

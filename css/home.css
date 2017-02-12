@@ -3,10 +3,28 @@ body {
 }
 
 /*TEST */
+
+
+
+.barContainer {
+    display: none;
+    cursor: pointer;
+
+}
+
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #ffffff;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
 .navName{
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
-    padding-right: 10px;
+    padding-right: 20px;
+    padding-left: 20px; 
     color:  #ffffff;
     font: normal 36px 'Cookie', cursive;
 }
@@ -90,9 +108,7 @@ nav.main-navbar{
     text-align:center;
 }
 
-image {
-    
-}
+
 
 .wrap {
     position: relative;
@@ -133,7 +149,9 @@ ul.topnav li .dropbtn:hover:not(.active) {background-color: #111;}
 
 ul.topnav li a.active {background-color: #4CAF50;}
 
-ul.topnav li.right {float: right;}
+ul.topnav li.right {
+    float: right;
+}
 
 
 li a, .dropbtn {
@@ -174,7 +192,7 @@ li a, .dropbtn {
    text-align: center;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 645px){
     ul.topnav li.right, 
     ul.topnav li, ul.topnav , li a, .dropbtn {
         float: none;
@@ -188,7 +206,20 @@ li a, .dropbtn {
     }
 
     #content{
-	margin-top: 400px;
+	   margin-top: 100px;
+    }
+
+    .barContainer {
+        display: inline-block;
+        cursor: pointer;
+        float: right;
+        position: absolute;
+        top: 15px;
+        left: 90%;
+    }
+
+    .nonMobile{
+        display: none;
     }
 	
 }
