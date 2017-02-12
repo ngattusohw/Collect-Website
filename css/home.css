@@ -185,6 +185,15 @@ li a, .dropbtn {
     display: block;
 }
 
+.carousel-indicators li{
+    border: 1px solid #333 !important;
+}
+
+.carousel-indicators .active{
+    background-color: #4CAF50  !important;
+}
+
+
 
 /* End ass */
 

@@ -21,7 +21,7 @@
 			    <div class="carousel-inner" role="listbox">
 			      <div class="item active">
 			      	<a href="http://www.collectsoftware.org/PALS/">
-			        <img src="Content/images/pals.jpg" alt="Pals" width="460" height="345">
+			        <img src="Content/images/pals.jpg" alt="Pals" width="30%" height="20%">
 			        <div class="carousel-caption">
 				        <h3 class = "blackText">Panthers Assisted Learning Software</h3>
 				        <p class = "blackText">Sign up for our fun, educational games!</p>
