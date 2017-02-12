@@ -200,6 +200,9 @@ li a, .dropbtn {
         margin: 0;
     }
 
+    .dropdown-content{
+        min-width: 25%;
+    }
     .dropdown-content a:hover {
         background-color: none;
         text-decoration: underline;
