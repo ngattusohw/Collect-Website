@@ -185,6 +185,10 @@ li a, .dropbtn {
     display: block;
 }
 
+.carousel-indicators{
+    position: none !important;
+}
+
 .carousel-indicators li{
     border: 1px solid #333 !important;
 }
