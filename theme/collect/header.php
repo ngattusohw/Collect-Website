@@ -7,7 +7,7 @@
 			  	<h3 class="navName"> Collect <span>Software</span> </h3>
 			  </li>
 			  <li class="navMobile link-dropdown nonMobile">
-			  	<a href="index.php" class="active dropbtn">Home</a>
+			  	<a href="index" class="active dropbtn">Home</a>
 			    <div class="dropdown-content">
 			      <a href="#">Link 1</a>
 			      <a href="#">Link 2</a>
@@ -16,11 +16,11 @@
 			  </li>
 
 			  <li class="navMobile nonMobile">
-			  	<a href="pals.php" class="dropbtn">PALS</a>
+			  	<a href="pals" class="dropbtn">PALS</a>
 			  </li>
 
 			  <li class="navMobile link-dropdown nonMobile">
-			    <a href="proj.php" class="dropbtn">Other Projects</a>
+			    <a href="proj" class="dropbtn">Other Projects</a>
 			    <div class="dropdown-content">
 			      <a href="#">Link 1</a>
 			      <a href="#">Link 2</a>
@@ -29,11 +29,11 @@
 			  </li>
 
 			  <li class="navMobile nonMobile">
-			  	<a href="contact.php" class="dropbtn">Contact Us</a>
+			  	<a href="contact" class="dropbtn">Contact Us</a>
 			  </li>
 
 			  <li class="navMobile nonMobile">
-			  	<a href="about.php" class="dropbtn">About</a>
+			  	<a href="about" class="dropbtn">About</a>
 			  </li>
 			</ul>
 

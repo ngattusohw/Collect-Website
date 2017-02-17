@@ -7,15 +7,15 @@
 		<h3>Collect<span>Software</span></h3>
 
 		<p class="footer-links">
-			<a href="index.php">Home</a>
+			<a href="index">Home</a>
 			·
-			<a href="pals.php">PALS</a>
+			<a href="pals">PALS</a>
 			·
-			<a href="proj.php">Other Projects</a>
+			<a href="proj">Other Projects</a>
 			·
-			<a href="contact.php">Contact Us</a>
+			<a href="contact">Contact Us</a>
 			·
-			<a href="about.php">About</a>
+			<a href="about">About</a>
 		</p>
 
 		<p class="footer-company-name">Collect Software &copy; 2017</p>
