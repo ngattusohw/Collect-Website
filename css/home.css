@@ -140,7 +140,8 @@ ul.topnav {
     width: 100%;
     padding: 0;
     overflow: hidden;
-    background-color: #333; 
+    background-color: #333;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
 }
 
 ul.topnav li {float: left;}
@@ -231,7 +232,7 @@ li a, .dropbtn {
         float: right;
         position: absolute;
         top: 15px;
-        left: 90%;
+        right: 20px;
     }
 
     .nonMobile{
