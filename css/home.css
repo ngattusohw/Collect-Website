@@ -2,9 +2,30 @@ body {
     margin: 0;
 }
 
+header {
+    text-align:center;
+    padding:70px 0;
+}
+
+nav {
+    background-color: #333;
+    width: 100%;
+/*    margin-left: -10px;*/
+    line-height:50px;
+    position: relative;
+}
+
+form {
+    margin: auto;
+    width: 75%;
+}
 /*TEST */
 
 
+.centerBtnForm{
+    margin: auto;
+    width: 50%;
+}
 
 .barContainer {
     display: none;
@@ -38,18 +59,7 @@ body {
     margin: 0 auto;
 }
 
-header {
-    text-align:center;
-    padding:70px 0;
-}
 
-nav {
-    background-color: #333;
-    width: 100%;
-/*    margin-left: -10px;*/
-    line-height:50px;
-    position: relative;
-}
 
 #content {
     background: #fff;
