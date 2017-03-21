@@ -25,21 +25,21 @@
   <div class = "picture-links">
       <div class = "wrap">
         <a href = "Content/pdfDoc/ppbhs.pdf">
-          <img src="Content/images/classClose.jpg" alt="pic" width="400px" height="180px">
+          <img src="Content/images/classClose.jpg" alt="pic" width="75%" height="75%">
           <p class = "img-name"> Coming Soon... </p>
         </a>
       </div>
 
       <div class = "wrap">
         <a href = "Content/pdfDoc/njsba.pdf">
-          <img src="Content/images/njsba.jpg" alt="pic" width="350px" height="350px">
+          <img src="Content/images/njsba.jpg" alt="pic" width="75%" height="75%">
           <p class = "img-name"> New Jersey School Board Association </p>
         </a>
       </div>
 
       <div class = "wrap">
         <a href = "Content/pdfDoc/appArticle.pdf">
-          <img src="Content/images/app.jpg" alt="pic" width="400px" height="200px">
+          <img src="Content/images/app.jpg" alt="pic" width="75%" height="75%">
           <p class = "img-name"> Asbury Park Press </p>
         </a>
       </div>

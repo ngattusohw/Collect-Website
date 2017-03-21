@@ -8,15 +8,15 @@
 		<form action="contactForm" method="post">
 			<div class="form-group">
 				<label for="Email">Email address</label>
-				<input type="email" name="email" class="form-control" id="Email" placeholder="Email">
+				<input type="email" name="email" class="form-control" id="Email" placeholder="Email" required="true">
 			</div>
 			<div class="form-group">
 				<label for="EmailName">Name</label>
-				<input type="subject" name="emailerName" class="form-control" id="EmailName" placeholder="First and Last Name">
+				<input type="subject" name="emailerName" class="form-control" id="EmailName" placeholder="First and Last Name" required="true">
 			</div>
 			<div class="form-group">
 				<label for="message">Message</label>
-				<textarea id="message" name="message" class="form-control" rows="3"></textarea>
+				<textarea id="message" name="message" class="form-control" rows="3" required="true"></textarea>
 			</div>
 			<button type="submit" class="btn btn-default" name="submit">Submit</button>
 		</form>
