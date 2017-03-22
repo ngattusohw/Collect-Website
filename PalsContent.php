@@ -1,4 +1,4 @@
-<div id="content">
+<div id="content" style="height:60%">
 
 
 <h2 class="text-center"> Sign into the Pals Portal </h2>
