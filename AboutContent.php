@@ -12,7 +12,7 @@
 			<div class = "wrapP">
 				<div class = "tPicture">
 					<a href = "https://www.linkedin.com/in/nicholas-gattuso-27b283100/">
-						<img id = "img" src="images\ngattuso.jpg" alt="pic" width="300px" height="300px">
+						<img id = "img" src="Content\images\ngattuso.jpg" alt="pic" width="300px" height="300px">
 					</a>
 				</div>
 				<div class = "tMember">
@@ -24,19 +24,19 @@
 			<div class = "wrapP">
 				<div class = "tPicture">
 					<a href = "https://www.linkedin.com/in/jake-collier-0021ba13a/">
-						<img id = "img" src="images\jcollier.jpg" alt="pic" width="300px" height="300px">
+						<img id = "img" src="Content\images\jcollier.jpg" alt="pic" width="300px" height="300px">
 					</a>
 				</div>
 				<div class = "tMember">
 					<p class = "the_guys"> Jake Collier</p>
-					<p class = "jobD"> Senior Director of Marketing </p>
+					<p class = "jobD"> Senior Director of Marketing / Software Engineer </p>
 				</div>
 			</div>
 
 			<div class = "wrapP">
 				<div class = "tPicture">
 					<a href = "https://www.linkedin.com/in/nicholas-draper-22a03446/">
-						<img id = "img" src="images\ndraper.jpg" alt="pic" width="300px" height="300px">
+						<img id = "img" src="Content\images\ndraper.jpg" alt="pic" width="300px" height="300px">
 					</a>
 				</div>
 				<div class = "tMember">
@@ -48,19 +48,19 @@
 			<div class = "wrapP">
 				<div class = "tPicture">
 					<a href = "https://www.linkedin.com/in/joseph-skimmons-571b56139/">
-						<img id = "img" src="images\jskimmons.jpg" alt="pic" width="300px" height="300px">
+						<img id = "img" src="Content\images\jskimmons.jpg" alt="pic" width="300px" height="300px">
 					</a>
 				</div>
 				<div class = "tMember">
 					<p class = "the_guys"> Joe Skimmons</p>
-					<p class = "jobD"> Senior Java Developer </p>
+					<p class = "jobD"> Senior Java/Python Developer </p>
 				</div>
 			</div>
 
 			<div class = "wrapP">
 				<div class = "tPicture">
 					<a href = "https://www.linkedin.com/in/mary-mckeon/">
-						<img id = "img" src="images\mmckeon.jpg" alt="pic" width="300px" height="300px">
+						<img id = "img" src="Content\images\mmckeon.jpg" alt="pic" width="300px" height="300px">
 					</a>
 				</div>
 				<div class = "tMember">
@@ -72,7 +72,7 @@
 			<div class = "wrapP">
 				<div class = "tPicture">
 					<a href = "https://www.linkedin.com/in/dylan-peters-4977a3131/">
-						<img id = "img" src="images\dpeters.jpg" alt="pic" width="300px" height="300px">
+						<img id = "img" src="Content\images\dpeters.jpg" alt="pic" width="300px" height="300px">
 					</a>
 				</div>
 				<div class = "tMember">
