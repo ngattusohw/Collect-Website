@@ -1,7 +1,7 @@
-	<div id="content" style="height:900px">
+	<div id="content" style="height:50%">
         
 		<p class = "company">
-				Collect is a software company driven by ideas. Our passionate and intelligent team distribute their ideas through the company's platform and resources. Our  goal is to create innovative software to better society. The team is made up of individuals from Columbia University, Stevens Institute of Technology, Ocean County College, and Harvey Mudd College.  Our current mission is a rework of the initiative "PALS", with the objective of increasing the target audience to every special needs program in America. To read more, go to the "PALS" section.
+				Collect is a software company driven by ideas. Our passionate and intelligent team distributes their ideas through the company's platform and resources. Our  goal is to create innovative software to better society. The team is made up of individuals from Columbia University, Stevens Institute of Technology, Ocean County College, and Harvey Mudd College.  Our current mission is a rework of the initiative "PALS", with the objective of increasing the target audience to every special needs program in America. To read more, go to the "PALS" section.
 		</p>
 
 		
@@ -24,18 +24,18 @@
 			        <img class ="d-block img-fluid" src="Content/images/pals.jpg" alt="Pals" width="30%" height="20%">
 			        <div class="carousel-caption">
 				        <h3 class = "blackText">Panthers Assisted Learning Software</h3>
-				        <p class = "blackText">Sign up for our fun, educational games!</p>
+				        <p class = "blackText">More to come soon!</p>
 				    </div>
 			        </a>
 
 			      </div>
 
 			      <div class="item">
-			        <a href="http://classroomcloseup.org/upcoming-this-season/">
+			        <a href="http://classroomcloseup.org/segments/panther-assisted-learning-software/">
 			        <img class="d-block img-fluid" src="Content/images/classroomCloseup.jpg" alt="Classroom Closeup" width="30%" height="20%">
 			        <div class="carousel-caption">
-				        <h3 class = "blackText">This February 19th!</h3>
-				        <p class = "blackText">See us featured in this month's edition of Classroom Closeup</p>
+				        <h3 class = "blackText">Featured on February 19th 2017!</h3>
+				        <p class = "blackText">See us featured in February's edition of Classroom Closeup</p>
 				    </div>
 			        </a>
 			      </div>

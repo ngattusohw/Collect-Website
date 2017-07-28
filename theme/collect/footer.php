@@ -44,7 +44,7 @@
 
 		<p class="footer-company-about">
 			<span>About the company</span>
-			Collect is a software company driven by ideas. Our passionate and intelligent team distribute their ideas through the companies platform and recources. Our current and most noteable project is "PALS" .. Panther Assisted Learning Software
+			Collect is a software company driven by ideas. Our passionate and intelligent team distributes their ideas through the companies platform and recources. Our current and most noteable project is "PALS" .. Panther Assisted Learning Software
 		</p>
 
 		<div class="footer-icons">

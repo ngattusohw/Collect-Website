@@ -441,8 +441,6 @@ footer{
     header { padding-top:40px; }
 }
 
-}
-
 
 /** adding about pge and timeline css**/
 
@@ -616,4 +614,12 @@ footer{
 
 .wrapP, .team_pics{
     text-align:center;
+}
+
+@media (max-width: 1000px) {
+
+    #myCarousel{
+      display: none;
+    }
+
 }

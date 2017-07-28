@@ -4,7 +4,7 @@
 			<h1 id = "MU">Meet Us!</h1>
 		</div>
 		<div class = "team">
-			<p> Our team is a group of passionate, young programmers dedicated to enhancing their skills through actual applications.
+			<p> Our team is a group of passionate programmers and problem solvers dedicated to applying their skills to make impactful software.
 			</p>
 		</div>
 
@@ -17,7 +17,7 @@
 				</div>
 				<div class = "tMember">
 					<p class = "the_guys"> Nicholas Gattuso III</p>
-					<p class = "jobD"> President </p>
+					<p class = "jobD"> President - Software Developer </p>
 				</div>
 			</div>
 
@@ -29,7 +29,7 @@
 				</div>
 				<div class = "tMember">
 					<p class = "the_guys"> Jake Collier</p>
-					<p class = "jobD"> Senior Director of Marketing / Software Engineer </p>
+					<p class = "jobD"> Software Developer </p>
 				</div>
 			</div>
 
@@ -41,7 +41,7 @@
 				</div>
 				<div class = "tMember">
 					<p class = "the_guys"> Nicholas Draper</p>
-					<p class = "jobD"> God </p>
+					<p class = "jobD"> Software Developer </p>
 				</div>				
 			</div>
 
@@ -53,7 +53,7 @@
 				</div>
 				<div class = "tMember">
 					<p class = "the_guys"> Joe Skimmons</p>
-					<p class = "jobD"> Senior Java/Python Developer </p>
+					<p class = "jobD"> Software Developer </p>
 				</div>
 			</div>
 
@@ -65,7 +65,7 @@
 				</div>
 				<div class = "tMember">
 					<p class = "the_guys"> Mary McKeon</p>
-					<p class = "jobD"> Lead Software Engineer </p>
+					<p class = "jobD"> Software Developer </p>
 				</div>
 			</div>
 
@@ -140,8 +140,8 @@
 		                <div class="timeline-panel debits">
 		                    <ul class="timeline-panel-ul">
 		                        <li><span class="importo">Phone App and Simulator Release</span></li>
-		                        <li><span class="causale">On this day in history, the Panthers Assisted Learning Software (PALS) Team released the iPhone and Android High School apps, complete with school schedules, period schedules, sports games, and local lunch spots. The grocery shop simulator was also showcased to and played by many life skills students. </span> </li>
-		                        <li><p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 01/23/2016</small></p> </li>
+		                        <li><span class="causale">Multible Java GUI programs were developed for the life skills kids in the highschool, and it was a huge hit. For 4 years students in Mr. Gattuso's programming classes made educational software for special needs students at the high school.</span> </li>
+		                        <li><p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 2012 - 2016</small></p> </li>
 		                    </ul>
 		                </div>
 
@@ -154,9 +154,9 @@
 		            <div class="col-sm-11">
 		                <div class="timeline-panel credits">
 		                    <ul class="timeline-panel-ul">
-		                        <li><span class="importo">Mussum ipsum cacilds</span></li>
-		                        <li><span class="causale">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span> </li>
-		                        <li><p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11/09/2014</small></p> </li>
+		                        <li><span class="importo">Shopping Simulator Release</span></li>
+		                        <li><span class="causale">The shopping simulator was released. It was based off of numerous trips that the special needs students took to practice navigating through a grocery store. The 3D simulator that we made allowed them to shop without ever leaving the classroom! </span> </li>
+		                        <li><p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 01/23/2016</small></p> </li>
 		                    </ul>
 		                </div>
 
@@ -179,7 +179,7 @@
 		            <div class="col-sm-offset-1 col-sm-11">
 		                <div class="timeline-panel debits">
 		                    <ul class="timeline-panel-ul">
-		                        <li><span class="importo">Collect Software was to continue PALS</span></li>
+		                        <li><span class="importo">Collect Software to continue PALS</span></li>
 		                        <li><span class="causale">Over winter break of our freshman years at college, Nick Gattuso, Jake Collier, Joe Skimmons, Nick Draper, Mary McKeon, and Dylan Peters all decided to take PALS to the next level, while improving our skillset for future endeavours. And, yes, it was in a basement. Just like every other small start up. </span> </li>
 		                        <li><p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 12/30/2016</small></p> </li>
 		                    </ul>
